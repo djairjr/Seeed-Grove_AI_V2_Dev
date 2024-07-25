@@ -1,3 +1,9 @@
+**Impressive Course on Machine Learning by Marcelo Rovai on UNIFEI IESTI**
+[Course Repository - TinyML - Machine Learning for Embedding Devices](https://mjrovai.github.io/UNIFEI-IESTI01-TinyML-2022.1/)
+
+[Excelent Tutorial from MJRovai in Hackster](https://www.hackster.io/mjrobot/computer-vision-at-the-edge-with-grove-vision-ai-module-v2-0003c7)
+
+
 **Seeed Grove Vision AI V2 Related Docs and Links**
 
 Collection with documents, links and other findings for my study of the Seeed Grove Vision AI V2 board. To keep everything organized and with simplified access.
@@ -66,7 +72,6 @@ Collection with documents, links and other findings for my study of the Seeed Gr
 
 [Nvidia TAO Model Zoo](https://catalog.ngc.nvidia.com/models?filters=&orderBy=weightPopularDESC&query=&page=&pageSize=)
 
-[Excelent Tutorial from MJRovai in Hackster](https://www.hackster.io/mjrobot/computer-vision-at-the-edge-with-grove-vision-ai-module-v2-0003c7)
 
 [Sense Craft Model Assistant SSCMA for ESP32 Examples](https://github.com/Seeed-Studio/sscma-example-esp32)
 
