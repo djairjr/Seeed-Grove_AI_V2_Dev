@@ -43,6 +43,7 @@ Collection with documents, links and other findings for my study of the Seeed Gr
 
 
 **Seeed Studio Repositories, links and info about the Grove Vision AI V2**
+
 [Seeed Studio Academic Support](https://academic.seeed.cc/)
 
 [Seeed Studio Model Assistant](https://github.com/Seeed-Studio/ModelAssistant)
